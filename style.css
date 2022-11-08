@@ -120,8 +120,6 @@ a:hover{
     display: var(--display);
     color:hsl(219, 14%, 63%);
     font-weight: normal;
-    pointer-events: none;
-    background-color: hsl(211, 68%, 94%);
 }
 
 .desc:hover{
